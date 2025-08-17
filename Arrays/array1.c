@@ -1,3 +1,5 @@
+// Initializing an Array and then displaying it
+
 #include <stdio.h>
 
 int main()
