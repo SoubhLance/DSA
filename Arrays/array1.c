@@ -1,4 +1,7 @@
-// Initializing an Array and then displaying it
+// Initializing an Array and then displaying it  
+//WAP  to read and display n numbers using an array
+
+
 
 #include <stdio.h>
 
