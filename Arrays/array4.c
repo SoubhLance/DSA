@@ -1,11 +1,10 @@
+//WAP to print the position of the smallest of n numbers in an array
+
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
 
 int main() {
     int arr[10];
-
-    srand(time(NULL)); // seed for randomness
 
     // initialize array with random values
     for (int i = 0; i < 10; i++) {
