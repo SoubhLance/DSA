@@ -36,7 +36,7 @@ int main()
 
     // find second largest
     for (int i = 0; i < 10; i++) {
-        if (i == pos) continue;  // skip the largest element
+        if (i == pos) continue;    // skip the largest element
         if (arr[i] > second_largest) {
             second_largest = arr[i];
             second_pos = i;
