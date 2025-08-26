@@ -1,3 +1,6 @@
+### Array Programs in C/C++
+- A collection of C programs demonstrating various array operations and manipulations.
+_____________________
 ## array1.c
 -> Initializing an Array and then displaying it  
 -> WAP  to read and display n numbers using an array
