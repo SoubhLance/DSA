@@ -33,4 +33,7 @@
 -> WAP to insert a number at a given location
 
 ## array9.c
-->
+-> WAP to insert a number in an array that is already sorted in ascending order
+
+## array10.c
+-> WAP to insert a number in an array that is already sorted in dexending order
