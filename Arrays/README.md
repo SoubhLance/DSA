@@ -36,11 +36,7 @@ _____________________
 -> WAP to insert a number at a given location
 
 ## array9.c
-<<<<<<< HEAD
 -> WAP to insert a number in an array that is already sorted in ascending order
 
 ## array10.c
 -> WAP to insert a number in an array that is already sorted in dexending order
-=======
-->
->>>>>>> cd25e394484aed10e481ea43579ee4bd16a1e7df
