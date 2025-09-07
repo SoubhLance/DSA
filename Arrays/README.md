@@ -17,7 +17,8 @@ _____________________
 ## array5.c
 -> WAP to interchange the smallest and the largest number
 
-## array6.c
+## array6.c 
+### IMP
 -> WAP to find the second largest number using array of n numbers 
 
 ## array7.c
