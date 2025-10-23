@@ -13,7 +13,8 @@ int main() {
         printf("Factorial of a negative number doesn't exist!\n");
     } else {
         int i = 1;
-        while (i <= n) {
+        while (i <= n) 
+        {
             factorial *= i;
             i++;
         }
