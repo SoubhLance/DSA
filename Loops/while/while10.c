@@ -1,5 +1,5 @@
 //Write a C program to find and print the first 10 Fibonacci numbers using a while loop
-//Fibonacc series 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
+//Fibonacci series 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
 
 #include <stdio.h>
 
